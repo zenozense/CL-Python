@@ -1,0 +1,7 @@
+a = int and float(input("1st Number: "))
+b = int and float(input("2nd Number: "))
+print("---------- Calculator ----------")
+print("(",a,")", "Add (+)", "(",b,")", "=", a+b)
+print("(",a,")", "Subtract (-)", "(",b,")", "=", a-b)
+print("(",a,")", "Multiply (x)", "(",b,")", "=", a*b)
+print("(",a,")", "Divide (/)", "(",b,")", "=", a/b)
